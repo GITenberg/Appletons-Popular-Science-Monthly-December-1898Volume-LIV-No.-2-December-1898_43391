@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42173'
     url: http://www.gutenberg.org/2009/agents/42173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43391#Appletons-Popular-Science-Monthly-December-1898Volume-LIV-No.-2-December-1898
 gutenberg_bookshelf: Popular Science Monthly
 gutenberg_issued: '2013-08-03'
 gutenberg_type: Text
